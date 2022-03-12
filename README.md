@@ -1,4 +1,5 @@
-![ios_logo](https://user-images.githubusercontent.com/84334801/158032312-47ec7ce9-bfa7-4614-a58c-381deebc4068.png)
+<p align='center'>
+![ios_logo](https://user-images.githubusercontent.com/84334801/158032448-6fe9f08c-0f2e-4d72-992c-c18598a51de8.png)
 
 ### Hi there 👋
 
