@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<a>Im a iOS mobile developer thats still on beginning of the career, current working with Swift Language and mostly eager to learn as much as I can about programming.</a>
+<a>Im a iOS mobile developer, current working with Swift Language and mostly eager to learn as much as I can about programming.</a>
 </p>
 
 <p align="center">
